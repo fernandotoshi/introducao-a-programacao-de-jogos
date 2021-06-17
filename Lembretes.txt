@@ -1,0 +1,3 @@
+Pastas para subir no git: Assets e ProjectSettings
+Documentation da Unit tem todas bibliotecas e métodos com descrição
+Edit > Project Settings: Estão todas configurações de teclado e valores no script
